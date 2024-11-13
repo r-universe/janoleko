@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "LaMa"]
 	path = LaMa
-	url = https://github.com/cran/LaMa
+	url = https://github.com/janoleko/lama
